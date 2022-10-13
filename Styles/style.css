@@ -83,6 +83,10 @@ body {
 .name img {
   max-width: 2.8rem;
   border-radius: 50%;
+}
+
+.daniel .name img,
+.patrick .name img {
   border: 2px solid #a775f1;
 }
 
